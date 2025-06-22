@@ -1,4 +1,5 @@
-Email Spam Detector
+Email Spam Detector:
+
 An intelligent and lightweight machine learning project that classifies emails as either Spam or Not Spam using text classification techniques. This project demonstrates how Natural Language Processing (NLP) and supervised learning can be combined to solve real-world communication filtering problems.
 
 Project Overview:
