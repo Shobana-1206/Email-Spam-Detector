@@ -67,4 +67,5 @@ The current implementation provides a strong foundation, but it can be improved 
 These ideas can help evolve this simple project into a full-fledged product or research prototype.
 
 Final Thoughts :
+
 This Email Spam Detector project highlights the practical use of machine learning in digital communication. It shows how even a beginner-level project can contribute to solving real-world problems. With a clean design, strong performance, and future potential, it stands as an excellent showcase for learning, presenting in a portfolio, or extending into more advanced applications.
